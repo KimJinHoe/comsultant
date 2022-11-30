@@ -1,4 +1,3 @@
-# README.md
 <div align="center">
     <img src="https://user-images.githubusercontent.com/63358647/204694792-5b7cd21f-7130-4a60-89e2-297facd9869c.JPG" width="30%"/>
 </div>

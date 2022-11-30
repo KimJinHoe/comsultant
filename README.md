@@ -1,9 +1,9 @@
 # README.md
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/63358647/204694514-858aaa96-b9a4-4071-bd7b-306b73fc4815.JPG" width="30%"/>
+    <img src="https://user-images.githubusercontent.com/63358647/204694792-5b7cd21f-7130-4a60-89e2-297facd9869c.JPG" width="30%"/>
 </div>
 <div align="center">
-    <img src="/uploads/f58a55fab660837f4717e1047e0721cc/사이트.JPG" width="60%"/>
+    <img src="https://user-images.githubusercontent.com/63358647/204694514-858aaa96-b9a4-4071-bd7b-306b73fc4815.JPG" width="60%"/>
 </div>
 
 ## 1. 서비스 소개💻

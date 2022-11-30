@@ -86,6 +86,9 @@
 ### 3) ERD
 <img src="https://user-images.githubusercontent.com/63358647/204729061-4cd5f267-7d21-41fb-ae3b-bab22db93e0b.png" width="60%"/>
 
+### 4) WireFrame (Figma)
+<img src="https://user-images.githubusercontent.com/63358647/204744653-d9fd086b-3dd2-4664-8758-7d30fe3e41b2.png" width="60%"/>
+
 ## 7. 시연 영상
 [바로가기](https://www.youtube.com/watch?v=UzseH60O1V8)
 

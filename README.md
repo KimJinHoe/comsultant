@@ -65,18 +65,15 @@
 | --- | --- | --- | --- | --- | --- |
 | React 18.2.0 <br> JavaScript ES6+ <br> SCSS / HTML5 <br> Chrome/ Edge <br> Axios 0.27.2 <br> Node.js 16.16.0 <br> Npm 8.11.0 <br> Redux 4.2.0 <br> React Router Dom 6.3.0 <br> ESLint 8.20.0 <br> Webpack 5.74.0 <br> Ant Design 4.23.1 | JAVA 11 <br> Spring Boot 2.7.3 <br> Spring Security <br> Hibernate <br> JPA <br> Gradle 7.5 <br> JWT 0.9.1 <br> MapStruct 1.5.2 | Redis 7.0.4 <br> MongoDB 5.0.12 <br> MySQL | Hadoop 3.2.2 <br> HDFS <br> MapReduce <br> Zookeeper 3.6.3 <br> Kafka 3.2.0 | NginX <br> AWS EC2 Ubuntu 20.04 LTS <br> Docker 20.10.18 <br> Docker Compose 1.29.2 <br> Jenkins | Selenium <br> Scrapy |
 
----
 ## 4. 데이터 흐름
 
 <img src="https://user-images.githubusercontent.com/63358647/204694519-542a9ef1-3b89-47a3-a771-1269b4d008e6.JPG" width="60%"/>
 
----
 
 ## 5. 서비스 아키텍처
 
 <img src="https://user-images.githubusercontent.com/63358647/204694522-87bba3e0-ba11-4412-a443-a2c419065bec.png" width="70%"/>
 
----
 
 ## 6. 그 외 산출물
 ### 1) API 명세서

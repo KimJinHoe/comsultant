@@ -80,14 +80,14 @@
 
 ## 6. 그 외 산출물
 ### 1) API 명세서
-![api명세서](https://user-images.githubusercontent.com/63358647/204729050-33d5d6a1-cb10-4684-a44d-f15f22373c4a.JPG)
-![api명세서2](https://user-images.githubusercontent.com/63358647/204729056-674b44f3-61ae-43f5-83af-309e7debedb6.JPG)
+<img src="https://user-images.githubusercontent.com/63358647/204729050-33d5d6a1-cb10-4684-a44d-f15f22373c4a.JPG" width="70%"/>
+<img src="https://user-images.githubusercontent.com/63358647/204729056-674b44f3-61ae-43f5-83af-309e7debedb6.JPG" width="70%"/>
 
 ### 2) Postman docs
-![postmandocs](https://user-images.githubusercontent.com/63358647/204729057-223f168d-8833-4523-a2c0-a4841593300c.JPG)
+<img src="https://user-images.githubusercontent.com/63358647/204729057-223f168d-8833-4523-a2c0-a4841593300c.JPG" width="70%"/>
 
 ### 3) ERD
-![컴설턴트erd](https://user-images.githubusercontent.com/63358647/204729061-4cd5f267-7d21-41fb-ae3b-bab22db93e0b.png)
+<img src="https://user-images.githubusercontent.com/63358647/204729061-4cd5f267-7d21-41fb-ae3b-bab22db93e0b.png" width="70%"/>
 
 ## 7. 시연 영상
 [바로가기](https://www.youtube.com/watch?v=UzseH60O1V8)

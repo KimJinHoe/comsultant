@@ -33,59 +33,10 @@
 | 역할 | 팀장 / Back-end | Back-end / Front-end | Hadoop | Kafka / Back-end | Back-end / Front-end | Front-end |
 
 ## 3. 기술 스택🛠
+| **Front-end** | **Back-end** | **Database** | **Distributed System** | **Infra** | **Crawling** |
+| --- | --- | --- | --- | --- | --- |
+| React 18.2.0 <br> JavaScript ES6+ <br> SCSS / HTML5 <br> Chrome/ Edge <br> Axios 0.27.2 <br> Node.js 16.16.0 <br> Npm 8.11.0 <br> Redux 4.2.0 <br> React Router Dom 6.3.0 <br> ESLint 8.20.0 <br> Webpack 5.74.0 <br> Ant Design 4.23.1 | JAVA 11 <br> Spring Boot 2.7.3 <br> Spring Security <br> Hibernate <br> JPA <br> Gradle 7.5 <br> JWT 0.9.1 <br> MapStruct 1.5.2 | Redis 7.0.4 <br> MongoDB 5.0.12 <br> MySQL | Hadoop 3.2.2 <br> HDFS <br> MapReduce <br> Zookeeper 3.6.3 <br> Kafka 3.2.0 | NginX <br> AWS EC2 Ubuntu 20.04 LTS <br> Docker 20.10.18 <br> Docker Compose 1.29.2 <br> Jenkins | Selenium <br> Scrapy |
 
-**Front-end**
-
-- React 18.2.0
-- JavaScript ES6+
-- SCSS / HTML5
-- Chrome / Edge
-- Axios 0.27.2
-- Node.js 16.16.0
-- Npm 8.11.0
-- Redux 4.2.0
-- React Router Dom 6.3.0
-- ESLint 8.20.0
-- Webpack 5.74.0
-- Ant Design 4.23.1
-
-**Back-end**
-
-- JAVA 11
-- Spring Boot 2.7.3
-- Spring Security
-- Hibernate
-- JPA
-- Gradle 7.5
-- JWT 0.9.1
-- MapStruct 1.5.2
-
-**Database**
-
-- Redis 7.0.4
-- MongoDB 5.0.12
-- MySQL
-
-**Distributed System**
-
-- Hadoop 3.2.2
-- HDFS
-- MapReduce
-- Zookeeper 3.6.3
-- Kafka 3.2.0
-
-**Infra**
-
-- NginX
-- AWS EC2 Ubuntu 20.04 LTS
-- Docker 20.10.18
-- Docker Compose 1.29.2
-- Jenkins
-
-**Crawling**
-
-- Selenium
-- Scrapy
 ---
 ## 4. 데이터 흐름
 

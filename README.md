@@ -1,3 +1,5 @@
+# 🖥 COMSULTANT
+
 <div align="center">
     <img src="https://user-images.githubusercontent.com/63358647/204694792-5b7cd21f-7130-4a60-89e2-297facd9869c.JPG" width="30%"/>
 </div>
@@ -7,7 +9,7 @@
 
 ## 1. 서비스 소개💻
 
-빅데이터 기반 조립 컴퓨터 견적 추천 플랫폼
+약 300만 건의 빅데이터 기반 조립 컴퓨터 견적 추천 플랫폼
 
 ### 1-1. 타겟층
 

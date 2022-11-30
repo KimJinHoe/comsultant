@@ -1,6 +1,6 @@
 # README.md
 <div align="center">
-    <img src="/uploads/806d4cb9e043a83fe720b3ebe0f09576/컴설턴트노션.JPG" width="30%"/>
+    <img src="https://user-images.githubusercontent.com/63358647/204694514-858aaa96-b9a4-4071-bd7b-306b73fc4815.JPG" width="30%"/>
 </div>
 <div align="center">
     <img src="/uploads/f58a55fab660837f4717e1047e0721cc/사이트.JPG" width="60%"/>
@@ -89,13 +89,13 @@
 ---
 ## 4. 데이터 흐름
 
-<img src="/uploads/b91805a7f8ebd4d13b47e4c857b52b6f/데이터흐름.JPG" width="60%"/>
+<img src="https://user-images.githubusercontent.com/63358647/204694519-542a9ef1-3b89-47a3-a771-1269b4d008e6.JPG" width="60%"/>
 
 ---
 
 ## 5. 서비스 아키텍처
 
-<img src="/uploads/5e1fda2a7bb2b87b92f8b1d4759d42dc/KakaoTalk_20221007_114215696.png" width="70%"/>
+<img src="https://user-images.githubusercontent.com/63358647/204694522-87bba3e0-ba11-4412-a443-a2c419065bec.png" width="70%"/>
 
 ---
 
